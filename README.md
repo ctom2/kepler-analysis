@@ -2,10 +2,12 @@
 Replication of data analysis presented by the team responsible for Kepler-16b discovery.
 
 ## Overview
-
 In this notebook I try to replicate the photometry introduced in paper announcing the dicovery of planet in the Kepler-16 system using the [Lightkurve](https://github.com/KeplerGO/lightkurve) package for Kepler & TESS time series analysis in Python. The Kepler-16 is a binary system with a discovered planet orbiting the pair of low-mass starts.
 
 The work is based on paper [Kepler-16: A Transiting Circumbinary Planet](https://arxiv.org/pdf/1109.3432.pdf).
+
+## ⚠️ Future work
+Creating application that can analyse the lightcurves on its own in a same way as it is described in the Jupyter notebook and create output with description of the system.
 
 ## Author
 Tomáš Chobola, 2019
