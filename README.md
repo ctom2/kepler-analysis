@@ -6,8 +6,5 @@ In this notebook I try to replicate the photometry introduced in paper announcin
 
 The work is based on paper [Kepler-16: A Transiting Circumbinary Planet](https://arxiv.org/pdf/1109.3432.pdf).
 
-## ⚠️ Future work
-Creating application that can analyse the lightcurves on its own in a same way as it is described in the Jupyter notebook and create output with description of the system.
-
 ## Author
 Tomáš Chobola, 2019
